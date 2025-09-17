@@ -38,40 +38,27 @@ jobs:
           GA_MEASUREMENT_ID: "G-68SNW6M6T4"
         run: |
           set -e
-          sudo apt-get update -y && sudo apt-get install -y gettext-base
 
           # 1) Build snippet via heredoc
-          cat > ga4_snippet.html <<'EOF'
-          <!-- GA4 start -->
-          <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}"></script>
+          SNIPPET="<!-- GA4 start -->
+          <script async src=\"https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}\"></script>
           <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
             gtag('config', '${GA_MEASUREMENT_ID}');
           </script>
-          <!-- GA4 end -->
-          EOF
-
-          # Expand $GA_MEASUREMENT_ID safely
-          envsubst < ga4_snippet.tmpl > ga4_snippet.html
-
-          find public -type f -name "*.html" -print0 |
-          # 2) Insert snippet before </head> if not already present
+          <!-- GA4 end -->"
+          # 仅对还未注入过的 HTML 文件处理；把片段插到 </head> 之前
           while IFS= read -r -d '' file; do
-            if ! grep -qi "<!-- GA4 start -->" "$file"; then
-              awk '
-                BEGIN { IGNORECASE=1 }
-                /<\/head>/ && !inserted {
-                  while ((getline line < "ga4_snippet.html") > 0) print line
-                  close("ga4_snippet.html")
-                  inserted=1
-                }
+            if ! grep -q "<!-- GA4 start -->" "$file"; then
+              awk -v snippet="$SNIPPET" '
+                BEGIN{IGNORECASE=1}
+                /<\/head>/ { sub(/<\/head>/, snippet "\n</head>") }
                 { print }
               ' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
             fi
-          done # < <(find public -type f -name "*.html" -print0)
-
+          done < <(find public -type f -name "*.html" -print0)
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
