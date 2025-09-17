@@ -1,4 +1,4 @@
-name: Build & Deploy Pages
+name: Build & Deploy Pages (with GA4)
 
 on:
   push:
@@ -31,7 +31,31 @@ jobs:
 
       - name: Build site
         run: python -m src.build
+      - name: Inject GA4 snippet into HTML
+        env:
+          GA_MEASUREMENT_ID: G-68SNW6M6T4
+        run: |
+          set -e
+          SNIPPET="<!-- GA4 start -->
+<script async src=\"https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}\"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '${GA_MEASUREMENT_ID}');
+</script>
+<!-- GA4 end -->"
 
+          # 仅对还未注入过的 HTML 文件处理；把片段插到 </head> 之前
+          while IFS= read -r -d '' file; do
+            if ! grep -q "<!-- GA4 start -->" "$file"; then
+              awk -v snippet="$SNIPPET" '
+                BEGIN{IGNORECASE=1}
+                /<\/head>/ { sub(/<\/head>/, snippet "\n</head>") }
+                { print }
+              ' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
+            fi
+          done < <(find public -type f -name "*.html" -print0)
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
