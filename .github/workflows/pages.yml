@@ -42,16 +42,16 @@ jobs:
 
           # 1) Build snippet via heredoc
           cat > ga4_snippet.html <<'EOF'
-<!-- GA4 start -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '${GA_MEASUREMENT_ID}');
-</script>
-<!-- GA4 end -->
-EOF
+          <!-- GA4 start -->
+          <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}');
+          </script>
+          <!-- GA4 end -->
+          EOF
 
           # Expand $GA_MEASUREMENT_ID safely
           envsubst < ga4_snippet.tmpl > ga4_snippet.html
