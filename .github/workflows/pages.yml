@@ -38,9 +38,10 @@ jobs:
           GA_MEASUREMENT_ID: "G-68SNW6M6T4"
         run: |
           set -e
+          sudo apt-get update -y && sudo apt-get install -y gettext-base
 
           # 1) Build snippet via heredoc
-          cat > ga4_snippet.html <<EOF
+          cat > ga4_snippet.html <<'EOF'
 <!-- GA4 start -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}"></script>
 <script>
@@ -52,6 +53,10 @@ jobs:
 <!-- GA4 end -->
 EOF
 
+          # Expand $GA_MEASUREMENT_ID safely
+          envsubst < ga4_snippet.tmpl > ga4_snippet.html
+
+          find public -type f -name "*.html" -print0 |
           # 2) Insert snippet before </head> if not already present
           while IFS= read -r -d '' file; do
             if ! grep -qi "<!-- GA4 start -->" "$file"; then
@@ -65,7 +70,7 @@ EOF
                 { print }
               ' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
             fi
-          done < <(find public -type f -name "*.html" -print0)
+          done # < <(find public -type f -name "*.html" -print0)
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
