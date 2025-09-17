@@ -1,4 +1,4 @@
-name: Build & Deploy Pages (with GA4)
+name: Build & Deploy Pages
 
 on:
   push:
@@ -31,14 +31,15 @@ jobs:
 
       - name: Build site
         run: python -m src.build
-      
+
+      # === Inject GA4 after build, before upload ===
       - name: Inject GA4 snippet into HTML
         env:
           GA_MEASUREMENT_ID: "G-68SNW6M6T4"
         run: |
           set -e
 
-        # 1) Build the snippet as a file (no escaping headaches)
+          # 1) Build snippet via heredoc
           cat > ga4_snippet.html <<EOF
 <!-- GA4 start -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}"></script>
@@ -51,15 +52,15 @@ jobs:
 <!-- GA4 end -->
 EOF
 
-        # 2) Insert before </head> only if not already present
+          # 2) Insert snippet before </head> if not already present
           while IFS= read -r -d '' file; do
             if ! grep -qi "<!-- GA4 start -->" "$file"; then
               awk '
                 BEGIN { IGNORECASE=1 }
-                /<\/head>/ {
+                /<\/head>/ && !inserted {
                   while ((getline line < "ga4_snippet.html") > 0) print line
                   close("ga4_snippet.html")
-                  sub(/<\/head>/, "</head>") # keep original close tag position after printing snippet
+                  inserted=1
                 }
                 { print }
               ' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
@@ -81,4 +82,3 @@ EOF
       - name: Deploy to Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
