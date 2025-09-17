@@ -31,10 +31,10 @@ jobs:
 
       - name: Build site
         run: python -m src.build
-
+      
       - name: Inject GA4 snippet into HTML
         env:
-          GA_MEASUREMENT_ID: ${{ secrets.GA_MEASUREMENT_ID }}
+          GA_MEASUREMENT_ID: "G-68SNW6M6T4"
         run: |
           set -e
 
