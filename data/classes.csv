@@ -1,196 +1,91 @@
-type,instructor,date,time,period_price,location,studio
-Beginner Hip Hop,小乐,"Wednesday, October 15th, 2025",10:30 AM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Int/Adv Choreo,Jian Jay Macaraeg,"Wednesday, October 15th, 2025",5:30 PM,,60 BRADY | STUDIO B,CityDance
-INT. Choreography (Ages 13+),Jepoy Papas,"Wednesday, October 15th, 2025",6:10 PM,80 min @ $25.00,,On One
-Beginning CHOREO,Vince Chan,"Wednesday, October 15th, 2025",6:15 PM,,60 BRADY | STUDIO A,CityDance
-Advanced Beginning TAP,Sam Weber,"Wednesday, October 15th, 2025",6:30 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Beg CHOREO,Eddie Mina,"Wednesday, October 15th, 2025",6:30 PM,,60 BRADY | STUDIO B,CityDance
-Beginning TUTTING,Intricate!,"Wednesday, October 15th, 2025",6:45 PM,,60 BRADY | STUDIO C,CityDance
-INT/ADV Choreo,Makayla Mountain,"Wednesday, October 15th, 2025",6:45 PM,90 min @ $30.00,,Young Reach
-Int/Adv Choreo,Nate S,"Wednesday, October 15th, 2025",6:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Now at 30 Otis Street,Intermediate JAZZ,"Wednesday, October 15th, 2025",7:00 PM,, | Loretta Najera with class held AT 30 OTIS ST,CityDance
-Int/Adv CHOREO,Sam Yoshikawa III,"Wednesday, October 15th, 2025",7:15 PM,,60 BRADY | STUDIO A,CityDance
-Advanced TAP,Sam Weber,"Wednesday, October 15th, 2025",7:30 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Beginning MOVES & GROOVES,Vincent Tantra,"Wednesday, October 15th, 2025",7:30 PM,,60 BRADY | STUDIO B,CityDance
-GROOV3: Hip Hop Workout (Ages 13+),Rhoville Isaac,"Wednesday, October 15th, 2025",7:35 PM,60 min @ $25.00,,On One
-Intermediate TUTTING,Intricate,"Wednesday, October 15th, 2025",7:45 PM,,60 BRADY | STUDIO C,CityDance
-INTERMEDIATE JAZZ,LORETTA NAJERA with class held AT 30 OTIS ST,"Wednesday, October 15th, 2025",8:15 PM,, | CITY BALLET,CityDance
-INT/ADV Choreo,Marky Dimaano,"Wednesday, October 15th, 2025",8:30 PM,,60 BRADY | STUDIO A,CityDance
-Pop-Up INT/ADV Choreo,Angelo Rivera,"Wednesday, October 15th, 2025",8:30 PM,90 min @ $30.00,,Young Reach
-Locking ⚠️Sunnyvale Studio⚠️,Flower Boogie,"Wednesday, October 15th, 2025",8:30 PM,90 min @ $30.00,,Young Reach
-Beginner Jazz Funk,Yi,"Wednesday, October 15th, 2025",8:30 PM,2 hrs,"6076 Stevenson Blvd, Fremont",EDS
-Intermediate K-pop,Miles,"Wednesday, October 15th, 2025",8:30 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
-ADV. Choreography (Ages 13+),Jepoy Papas,"Wednesday, October 15th, 2025",8:40 PM,80 min @ $25.00,,On One
-Beginning BREAKING,NastyRay,"Thursday, October 16th, 2025",5:00 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Int/Adv Choreo,Joseph Deocares,"Thursday, October 16th, 2025",5:30 PM,,60 BRADY | STUDIO B,CityDance
-Int/Adv Choreo COLLAB,Pavel + Joon,"Thursday, October 16th, 2025",5:45 PM,,60 BRADY | STUDIO A,CityDance
-Intermediate Contemporary,Julianna Cressman,"Thursday, October 16th, 2025",6:15 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Int/Adv Choreo,Dom Masotto,"Thursday, October 16th, 2025",6:30 PM,,60 BRADY | STUDIO B,CityDance
-BEG. Choreography (Ages 13+),Nate Souryasack,"Thursday, October 16th, 2025",6:30 PM,80 min @ $25.00,,On One
-BEG/INT Choreo,Larry Li,"Thursday, October 16th, 2025",6:45 PM,90 min @ $30.00,,Young Reach
-Beginner Jazz Funk,Brittany,"Thursday, October 16th, 2025",6:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner Breaking,Tree & Charlie,"Thursday, October 16th, 2025",7:00 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-All Levels HOUSE GROOVES,Lauren Benjamin,"Thursday, October 16th, 2025",7:15 PM,,60 BRADY | STUDIO A,CityDance
-INT/ADV Choreography (Ages 13+),Tae Ninja,"Thursday, October 16th, 2025",7:15 PM,80 min @ $25.00,,On One
-Int/Adv CHOREO,Alina Perez (now 75 min!),"Thursday, October 16th, 2025",7:30 PM,,60 BRADY | STUDIO B,CityDance
-Beginner Jazz Funk,Lai-Ling,"Thursday, October 16th, 2025",7:30 PM,1 hr 30 mins,"27 37th Ave, San Mateo",EDS
-Int/Adv CHOREO,Candace Pong,"Thursday, October 16th, 2025",8:30 PM,,60 BRADY | STUDIO A,CityDance
-Waacking,Flower Boogie,"Thursday, October 16th, 2025",8:30 PM,90 min @ $30.00,,Young Reach
-INT JazzFunk Choreo | 'The Way I Are' (Round 2),Snow S,"Thursday, October 16th, 2025",8:30 PM,90 min @ $30.00,,Young Reach
-Beginner Hip Hop,小乐,"Thursday, October 16th, 2025",8:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Foundation Hip Hop,Leon,"Thursday, October 16th, 2025",8:30 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-Beginner Jazz Funk,Jennica,"Friday, October 17th, 2025",10:00 AM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
-All Levels Choreo,Larry Li,"Friday, October 17th, 2025",10:30 AM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Int/Adv Choreo,Princeton Liu,"Friday, October 17th, 2025",5:15 PM,,60 BRADY | STUDIO B,CityDance
-Beginning CHOREO,Sila Poe Charukesnant,"Friday, October 17th, 2025",5:15 PM,,60 BRADY | STUDIO A,CityDance
-"Popping, Robotting, Strutting",Agatron,"Friday, October 17th, 2025",6:00 PM,,60 BRADY | STUDIO C,CityDance
-INT. Choreography (Ages 13+),Max Louangrath,"Friday, October 17th, 2025",6:10 PM,80 min @ $25.00,,On One
-Beg/Int Choreo,Larry Li,"Friday, October 17th, 2025",6:30 PM,,THE ANNEX | 1420 HARRISON,CityDance
-All Levels KPOP,Lily Price,"Friday, October 17th, 2025",6:30 PM,,60 BRADY | STUDIO A,CityDance
-All Levels Choreo,JJ,"Friday, October 17th, 2025",7:00 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner Hip Hop,小乐,"Friday, October 17th, 2025",7:00 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-Beginning CHOREO,Jepoy Papas,"Friday, October 17th, 2025",7:30 PM,,60 BRADY | STUDIO A,CityDance
-ADV. Choreography (Ages 13+),Anthony Chen,"Friday, October 17th, 2025",7:35 PM,80 min @ $25.00,,On One
-KPOP Dance Covers (ages 13+),Eric Pham,"Friday, October 17th, 2025",7:35 PM,80 min @ $25.00,,On One
-"BEGINNING HIPHOP (age group 18+) : Swag, Sex, AND Comfort",Patty Lam,"Friday, October 17th, 2025",8:00 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Int/Adv CHOREO,Jepoy Papas,"Friday, October 17th, 2025",8:30 PM,,60 BRADY | STUDIO A,CityDance
-Beginner High Heels,Candice,"Friday, October 17th, 2025",8:30 PM,2 hrs,"6076 Stevenson Blvd, Fremont",EDS
-Community Class (Ages 13+),Jomar Reyes,"Friday, October 17th, 2025",9:00 PM,90 min @ $25.00,,On One
-All Levels Choreo,Gooseul,"Friday, October 17th, 2025",9:00 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner-ish TAP,Daphne Wong,"Saturday, October 18th, 2025",9:30 AM,,60 BRADY | STUDIO B,CityDance
-Int/Adv CONTEMPORARY,Mary Carbonara,"Saturday, October 18th, 2025",9:30 AM,,60 BRADY | STUDIO A,CityDance
-HOUSE (ages 13+),Lauren B,"Saturday, October 18th, 2025",11:30 AM,80 min @ $25.00,,On One
-All Levels House,Lauriane Ogay,"Saturday, October 18th, 2025",12:30 PM,,60 BRADY | STUDIO A,CityDance
-Beg/Int KPOP,Ki To,"Saturday, October 18th, 2025",12:30 PM,,60 BRADY | STUDIO B,CityDance
-BEG. Choreography (Ages 13+),Mikey Gutierrez,"Saturday, October 18th, 2025",12:55 PM,80 min @ $25.00,,On One
-"BEG K-Pop | KAI, SEULGI, JENO, KARINA - 'Hot & Cold'",Christine L,"Saturday, October 18th, 2025",1:00 PM,90 min @ $30.00,,Young Reach
-Beginner Chinese Fusion,SaSa,"Saturday, October 18th, 2025",1:00 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
-Intermediate CHOREO,Ki To,"Saturday, October 18th, 2025",1:45 PM,,60 BRADY | STUDIO B,CityDance
-Int/Adv Hip Hop,Stuck Sanders,"Saturday, October 18th, 2025",2:00 PM,,60 BRADY | STUDIO A,CityDance
-K-Pop | Jung Kook - 'Standing Next to You',Ivy J,"Saturday, October 18th, 2025",3:00 PM,90 min @ $30.00,,Young Reach
-All Levels Choreo,JJ,"Saturday, October 18th, 2025",3:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-BEG JazzFunk Choreo | 'SOS',Junlin F,"Saturday, October 18th, 2025",5:00 PM,90 min @ $30.00,,Young Reach
-All Levels Choreo,Gooseul,"Saturday, October 18th, 2025",5:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner Plus Latin,Maggie,"Saturday, October 18th, 2025",5:30 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-Beginner Plus K-pop,Michael Wu,"Saturday, October 18th, 2025",7:45 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
-Int/Adv CONTEMPORARY,Mary Carbonara,"Sunday, October 19th, 2025",10:00 AM,,60 BRADY | STUDIO A,CityDance
-BEG Chinese Choreo |《伯虎说》,Xinrong H,"Sunday, October 19th, 2025",11:00 AM,90 min @ $30.00,,Young Reach
-BEG. Choreography (Ages 13+),Max Louangrath,"Sunday, October 19th, 2025",11:30 AM,80 min @ $25.00,,On One
-CAMPBELLOCK (Ages 13+),Kevin Saicheur,"Sunday, October 19th, 2025",12:00 PM,80 min @ $25.00,,On One
-Community Class (Ages 13+),Emily & Jess Collab,"Sunday, October 19th, 2025",1:00 PM,90 min @ $25.00,,On One
-K-Pop | MEOVV - 'BURNING UP',Junlin F,"Sunday, October 19th, 2025",1:00 PM,90 min @ $30.00,,Young Reach
-All Levels Popping,Monkey,"Sunday, October 19th, 2025",1:00 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
-Foundation Hip Hop,xixi,"Sunday, October 19th, 2025",1:00 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-Open Session (Ages 13+),On One Studios .,"Sunday, October 19th, 2025",1:20 PM,60 min @ $5.00,,On One
-Int/Adv Hip Hop,Leon,"Sunday, October 19th, 2025",1:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-BEG Chinese Choreo |《望风》,Selina 气球,"Sunday, October 19th, 2025",3:00 PM,90 min @ $30.00,,Young Reach
-Intermediate Choreo,Larry Li,"Sunday, October 19th, 2025",3:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-All Levels KPOP,Andy Nguyen,"Sunday, October 19th, 2025",4:15 PM,,60 BRADY | STUDIO A,CityDance
-BEG JazzFunk Choreo | 'SOS',Junlin F,"Sunday, October 19th, 2025",5:00 PM,90 min @ $30.00,,Young Reach
-Int/Adv Choreo,Kadar Ray,"Sunday, October 19th, 2025",5:30 PM,,60 BRADY | STUDIO B,CityDance
-Int/Adv Choreo COLLAB,Andres Ley Fuentes + Dom Masotto,"Sunday, October 19th, 2025",5:30 PM,,60 BRADY | STUDIO A,CityDance
-Beginner Jazz Funk,Jackson Tran,"Sunday, October 19th, 2025",5:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Intermediate K-pop,Miles,"Sunday, October 19th, 2025",6:30 PM,2 hrs,"6076 Stevenson Blvd, Fremont",EDS
-Int/Adv Choreo Pop Up,Trevor Takemoto,"Sunday, October 19th, 2025",7:00 PM,,60 BRADY | STUDIO A,CityDance
-All Levels Choreo,Larry Li,"Sunday, October 19th, 2025",7:45 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner House,Rama Hall,"Sunday, October 19th, 2025",8:30 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-Beginning HIP HOP,Patty Lam,"Monday, October 20th, 2025",5:45 PM,,60 BRADY | STUDIO A,CityDance
-Int/Adv CHOREO,Taylor Raymundo,"Monday, October 20th, 2025",5:45 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Beg. JAZZ Technique & Choreography,Loretta Najera,"Monday, October 20th, 2025",6:00 PM,,THE ANNEX | 1420 HARRISON,CityDance
-BEG. Choreography (Ages 13+),Alyssa Corpuz,"Monday, October 20th, 2025",6:10 PM,80 min @ $25.00,,On One
-INT. Choreography (Ages 13+),Alee Martinez,"Monday, October 20th, 2025",6:10 PM,80 min @ $25.00,,On One
-All Levels KPOP,Sharon Wang,"Monday, October 20th, 2025",6:15 PM,,60 BRADY | STUDIO B,CityDance
-Foundation Choreo,Nate S,"Monday, October 20th, 2025",6:15 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-House,Flower Boogie,"Monday, October 20th, 2025",6:45 PM,90 min @ $30.00,,Young Reach
-Int/Adv CHOREO,Aggie Loyola,"Monday, October 20th, 2025",7:00 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Intermediate Choreo,Dillon Nguyen,"Monday, October 20th, 2025",7:00 PM,,60 BRADY | STUDIO A,CityDance
-ADV. Choreography (Ages 13+),Tad Racca,"Monday, October 20th, 2025",7:35 PM,80 min @ $25.00,,On One
-BEG/INT Heels (Age 18+),Paulina Huynh Nhu,"Monday, October 20th, 2025",7:35 PM,80 min @ $25.00,,On One
-Int/Adv Choreo,Jaron Wong,"Monday, October 20th, 2025",8:15 PM,,60 BRADY | STUDIO A,CityDance
-Foundation Choreo,Nate S,"Monday, October 20th, 2025",8:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beg/Int Contemporary,Colin Frederick,"Tuesday, October 21st, 2025",5:30 PM,,60 BRADY | STUDIO A,CityDance
-Intermediate CHOREO,Joon Hexter,"Tuesday, October 21st, 2025",5:30 PM,,60 BRADY | STUDIO B,CityDance
-BEG/INT Grooves (Ages 13+),Tad Racca,"Tuesday, October 21st, 2025",6:10 PM,80 min @ $25.00,,On One
-Syndicate Slot (Ages 13+),Titus Lagman,"Tuesday, October 21st, 2025",6:10 PM,80 min @ $25.00,,On One
-Beginner CHOREO,Sila Poe Charukesnant,"Tuesday, October 21st, 2025",6:45 PM,,60 BRADY | STUDIO B,CityDance
-Int/Adv CHOREO,Eddie Mina,"Tuesday, October 21st, 2025",7:00 PM,,60 BRADY | STUDIO A,CityDance
-Beginner Hip Hop,Nikki,"Tuesday, October 21st, 2025",7:00 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-All Levels POPPING,Switchvilla,"Tuesday, October 21st, 2025",7:15 PM,,60 BRADY | STUDIO C,CityDance
-ADV. Choreography (Ages 13+),Marky Dimaano,"Tuesday, October 21st, 2025",7:35 PM,80 min @ $25.00,,On One
-All Levels KPOP,Michelle Chen,"Tuesday, October 21st, 2025",8:00 PM,,60 BRADY | STUDIO B,CityDance
-Popping,OPEN SESSION,"Tuesday, October 21st, 2025",8:30 PM,, | Switchvilla with class at 60 BRADY,CityDance
-Int/Adv CHOREO,Jessie Munoz,"Tuesday, October 21st, 2025",8:30 PM,,60 BRADY | STUDIO A,CityDance
-基础爵士编舞,Joanne 企鹅,"Tuesday, October 21st, 2025",8:30 PM,90 min @ $30.00,,Young Reach
-Beginner High Heels,Candice,"Tuesday, October 21st, 2025",8:30 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner Breaking,Tree & Charlie,"Tuesday, October 21st, 2025",8:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner Hip Hop,小乐,"Wednesday, October 22nd, 2025",10:30 AM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Int/Adv Choreo,Jian Jay Macaraeg,"Wednesday, October 22nd, 2025",5:30 PM,,60 BRADY | STUDIO B,CityDance
-Beginning CHOREO,Vince Chan,"Wednesday, October 22nd, 2025",6:15 PM,,60 BRADY | STUDIO A,CityDance
-Beg CHOREO,Eddie Mina,"Wednesday, October 22nd, 2025",6:30 PM,,60 BRADY | STUDIO B,CityDance
-Advanced Beginning TAP,Sam Weber,"Wednesday, October 22nd, 2025",6:30 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Beginning TUTTING,Intricate!,"Wednesday, October 22nd, 2025",6:45 PM,,60 BRADY | STUDIO C,CityDance
-Int/Adv Choreo,Nate S,"Wednesday, October 22nd, 2025",6:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Now at 30 Otis Street,Intermediate JAZZ,"Wednesday, October 22nd, 2025",7:00 PM,, | Loretta Najera with class held AT 30 OTIS ST,CityDance
-Int/Adv CHOREO,Sam Yoshikawa III,"Wednesday, October 22nd, 2025",7:15 PM,,60 BRADY | STUDIO A,CityDance
-Beginning MOVES & GROOVES,Vincent Tantra,"Wednesday, October 22nd, 2025",7:30 PM,,60 BRADY | STUDIO B,CityDance
-Advanced TAP,Sam Weber,"Wednesday, October 22nd, 2025",7:30 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Intermediate TUTTING,Intricate,"Wednesday, October 22nd, 2025",7:45 PM,,60 BRADY | STUDIO C,CityDance
-INT/ADV Choreo,Marky Dimaano,"Wednesday, October 22nd, 2025",8:30 PM,,60 BRADY | STUDIO A,CityDance
-Beginner Jazz Funk,Yi,"Wednesday, October 22nd, 2025",8:30 PM,2 hrs,"6076 Stevenson Blvd, Fremont",EDS
-Beginner Jazz Funk,Yi,"Wednesday, October 22nd, 2025",8:30 PM,2 hrs,"6076 Stevenson Blvd, Fremont",EDS
-Beginner Plus K-pop,Miles,"Wednesday, October 22nd, 2025",8:30 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
-Beginning BREAKING,NastyRay,"Thursday, October 23rd, 2025",5:00 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Int/Adv Choreo,Joseph Deocares,"Thursday, October 23rd, 2025",5:30 PM,,60 BRADY | STUDIO B,CityDance
-Int/Adv Choreo,Haley Martinez,"Thursday, October 23rd, 2025",5:45 PM,,60 BRADY | STUDIO A,CityDance
-Intermediate Contemporary,Julianna Cressman,"Thursday, October 23rd, 2025",6:15 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Beginning Choreo,Pavel Jordan,"Thursday, October 23rd, 2025",6:30 PM,,60 BRADY | STUDIO B,CityDance
-Beginner Breaking,Tree & Charlie,"Thursday, October 23rd, 2025",7:00 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-All Levels HOUSE GROOVES,Lauren Benjamin,"Thursday, October 23rd, 2025",7:15 PM,,60 BRADY | STUDIO A,CityDance
-Int/Adv CHOREO,Alina Perez (now 75 min!),"Thursday, October 23rd, 2025",7:30 PM,,60 BRADY | STUDIO B,CityDance
-Beginner Jazz Funk,Lai-Ling,"Thursday, October 23rd, 2025",7:30 PM,1 hr 30 mins,"27 37th Ave, San Mateo",EDS
-Int/Adv CHOREO,Candace Pong,"Thursday, October 23rd, 2025",8:30 PM,,60 BRADY | STUDIO A,CityDance
-Beginner Hip Hop,小乐,"Thursday, October 23rd, 2025",8:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Foundation Hip Hop,Leon,"Thursday, October 23rd, 2025",8:30 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-Int/Adv Choreo,Princeton Liu,"Friday, October 24th, 2025",5:15 PM,,60 BRADY | STUDIO B,CityDance
-Beginning CHOREO,Sila Poe Charukesnant,"Friday, October 24th, 2025",5:15 PM,,60 BRADY | STUDIO A,CityDance
-"Popping, Robotting, Strutting",Agatron,"Friday, October 24th, 2025",6:00 PM,,60 BRADY | STUDIO C,CityDance
-Intermediate CHOREO,Connor Cu,"Friday, October 24th, 2025",6:30 PM,,60 BRADY | STUDIO A,CityDance
-Beg/Int Choreo,Larry Li,"Friday, October 24th, 2025",6:30 PM,,THE ANNEX | 1420 HARRISON,CityDance
-All Levels Choreo,Larry Li,"Friday, October 24th, 2025",6:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-"Roll, Point, Lock",Chaz,"Friday, October 24th, 2025",7:00 PM,,60 BRADY | STUDIO C,CityDance
-Beginner Hip Hop,小乐,"Friday, October 24th, 2025",7:00 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-INT/ADV Choreo,Jepoy Papas,"Friday, October 24th, 2025",7:30 PM,,60 BRADY | STUDIO A,CityDance
-"BEGINNING HIPHOP (age group 18+) : Swag, Sex, AND Comfort",Patty Lam,"Friday, October 24th, 2025",8:00 PM,,THE ANNEX | 1420 HARRISON,CityDance
-LOCKING Session,Chaz + DJ Lars,"Friday, October 24th, 2025",8:00 PM,,60 BRADY | STUDIO C,CityDance
-Int/Adv Choreo Collab,Austin Edwards + Alekz Samone,"Friday, October 24th, 2025",8:30 PM,,60 BRADY | STUDIO A,CityDance
-Int/Adv CONTEMPORARY,Mary Carbonara,"Saturday, October 25th, 2025",9:30 AM,,60 BRADY | STUDIO A,CityDance
-Beginner-ish TAP,Daphne Wong,"Saturday, October 25th, 2025",9:30 AM,,60 BRADY | STUDIO B,CityDance
-Beg/Int KPOP,Ki To,"Saturday, October 25th, 2025",12:30 PM,,60 BRADY | STUDIO A,CityDance
-"Waving + Gliding : Textures, Drills & Isolations",Dave Lu,"Saturday, October 25th, 2025",1:00 PM,,60 BRADY | STUDIO C,CityDance
-Intermediate CHOREO,Ki To,"Saturday, October 25th, 2025",1:45 PM,,60 BRADY | STUDIO B,CityDance
-Int/Adv Hip Hop,Stuck Sanders,"Saturday, October 25th, 2025",2:00 PM,,60 BRADY | STUDIO A,CityDance
-Int/Adv Choreo,Michael Burt,"Saturday, October 25th, 2025",3:30 PM,,60 BRADY | STUDIO A,CityDance
-Intermediate Choreo,Sam,"Saturday, October 25th, 2025",5:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner Plus Latin,Maggie,"Saturday, October 25th, 2025",5:30 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
-Beginner Plus K-pop,Michael Wu,"Saturday, October 25th, 2025",7:45 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
-Int/Adv CONTEMPORARY,Mary Carbonara,"Sunday, October 26th, 2025",10:00 AM,,60 BRADY | STUDIO A,CityDance
-All Levels Popping,Monkey,"Sunday, October 26th, 2025",1:00 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
-Intermediate Choreo,Larry Li,"Sunday, October 26th, 2025",3:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Int/Adv CHOREO,Georgi Carmack,"Sunday, October 26th, 2025",4:15 PM,,60 BRADY | STUDIO A,CityDance
-All Levels KPOP,Andy Nguyen,"Sunday, October 26th, 2025",4:15 PM,,60 BRADY | STUDIO B,CityDance
-Int/Adv CHOREO,Zack Jot,"Sunday, October 26th, 2025",5:30 PM,,60 BRADY | STUDIO A,CityDance
-Int/Adv Choreo,Devin Regan,"Sunday, October 26th, 2025",5:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Int/Adv CHOREO,Taylor Raymundo,"Monday, October 27th, 2025",5:45 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Beginning HIP HOP,Patty Lam,"Monday, October 27th, 2025",5:45 PM,,60 BRADY | STUDIO A,CityDance
-Beg. JAZZ Technique & Choreography,Loretta Najera,"Monday, October 27th, 2025",6:00 PM,,THE ANNEX | 1420 HARRISON,CityDance
-All Levels KPOP,Sharon Wang,"Monday, October 27th, 2025",6:15 PM,,60 BRADY | STUDIO B,CityDance
-Intermediate Choreo,Dillon Nguyen,"Monday, October 27th, 2025",7:00 PM,,60 BRADY | STUDIO A,CityDance
-Int/Adv CHOREO,Leon Li,"Monday, October 27th, 2025",7:00 PM,,THE ANNEX | 1420 HARRISON,CityDance
-Int/Adv Choreo,Jaron Wong,"Monday, October 27th, 2025",8:15 PM,,60 BRADY | STUDIO A,CityDance
-Intermediate CHOREO,Joon Hexter,"Tuesday, October 28th, 2025",5:30 PM,,60 BRADY | STUDIO B,CityDance
-Beg/Int Contemporary,Colin Frederick,"Tuesday, October 28th, 2025",5:30 PM,,60 BRADY | STUDIO A,CityDance
-Beginner CHOREO,Sila Poe Charukesnant,"Tuesday, October 28th, 2025",6:45 PM,,60 BRADY | STUDIO B,CityDance
-Int/Adv CHOREO,Eddie Mina,"Tuesday, October 28th, 2025",7:00 PM,,60 BRADY | STUDIO A,CityDance
-All Levels K-pop,Alice Park,"Thursday, October 30th, 2025",7:30 PM,1 hr 30 mins,"27 37th Ave, San Mateo",EDS
-All Levels Choreo,Larry Li,"Friday, November 14th, 2025",6:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner Plus Choreo,Dylan Lê,"Saturday, November 15th, 2025",7:30 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
+date,time,type,instructor,period_price,studio,location
+"Thursday, October 16th, 2025",6:30 PM,BEG. Choreography (Ages 13+),Nate Souryasack,80 min @ $25.00,On One,
+"Thursday, October 16th, 2025",6:45 PM,BEG/INT Choreo,Larry Li,90 min @ $30.00,Young Reach,
+"Thursday, October 16th, 2025",6:45 PM,Beginner Plus Jazz Funk,Brittany,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Thursday, October 16th, 2025",7:00 PM,Beginner Breaking,Tree & Charlie,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Thursday, October 16th, 2025",7:15 PM,INT/ADV Choreography (Ages 13+),Tae Ninja,80 min @ $25.00,On One,
+"Thursday, October 16th, 2025",7:30 PM,Beginner Jazz Funk,Lai-Ling,1 hr 30 mins,EDS,"27 37th Ave, San Mateo"
+"Thursday, October 16th, 2025",8:30 PM,Waacking,Flower Boogie,90 min @ $30.00,Young Reach,
+"Thursday, October 16th, 2025",8:30 PM,INT JazzFunk Choreo | 'The Way I Are' (Round 2),Snow S,90 min @ $30.00,Young Reach,
+"Thursday, October 16th, 2025",8:30 PM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Thursday, October 16th, 2025",8:30 PM,Foundation Hip Hop,Leon,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Friday, October 17th, 2025",10:00 AM,Beginner Jazz Funk,Jennica,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Friday, October 17th, 2025",10:30 AM,All Levels Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Friday, October 17th, 2025",6:10 PM,INT. Choreography (Ages 13+),Max Louangrath,80 min @ $25.00,On One,
+"Friday, October 17th, 2025",7:00 PM,All Levels Choreo,JJ,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Friday, October 17th, 2025",7:00 PM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Friday, October 17th, 2025",7:35 PM,ADV. Choreography (Ages 13+),Anthony Chen,80 min @ $25.00,On One,
+"Friday, October 17th, 2025",7:35 PM,KPOP Dance Covers (ages 13+),Eric Pham,80 min @ $25.00,On One,
+"Friday, October 17th, 2025",8:30 PM,Beginner High Heels,Candice,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
+"Friday, October 17th, 2025",9:00 PM,Community Class (Ages 13+),Jomar Reyes,90 min @ $25.00,On One,
+"Friday, October 17th, 2025",9:00 PM,All Levels Choreo,Gooseul,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Saturday, October 18th, 2025",11:30 AM,HOUSE (ages 13+),Lauren B,80 min @ $25.00,On One,
+"Saturday, October 18th, 2025",12:55 PM,BEG. Choreography (Ages 13+),Mikey Gutierrez,80 min @ $25.00,On One,
+"Saturday, October 18th, 2025",1:00 PM,"BEG K-Pop | KAI, SEULGI, JENO, KARINA - 'Hot & Cold'",Christine L,90 min @ $30.00,Young Reach,
+"Saturday, October 18th, 2025",1:00 PM,Beginner Chinese Fusion,SaSa,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Saturday, October 18th, 2025",3:00 PM,K-Pop | Jung Kook - 'Standing Next to You',Ivy J,90 min @ $30.00,Young Reach,
+"Saturday, October 18th, 2025",3:30 PM,All Levels Choreo,JJ,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Saturday, October 18th, 2025",5:00 PM,BEG JazzFunk Choreo | 'SOS',Junlin F,90 min @ $30.00,Young Reach,
+"Saturday, October 18th, 2025",5:30 PM,All Levels Choreo,Gooseul,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Saturday, October 18th, 2025",5:30 PM,Beginner Plus Latin,Maggie,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Saturday, October 18th, 2025",7:45 PM,Beginner Plus K-pop,Michael Wu,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, October 19th, 2025",11:00 AM,BEG Chinese Choreo |《伯虎说》,Xinrong H,90 min @ $30.00,Young Reach,
+"Sunday, October 19th, 2025",11:30 AM,BEG. Choreography (Ages 13+),Max Louangrath,80 min @ $25.00,On One,
+"Sunday, October 19th, 2025",12:00 PM,CAMPBELLOCK (Ages 13+),Kevin Saicheur,80 min @ $25.00,On One,
+"Sunday, October 19th, 2025",1:00 PM,Community Class (Ages 13+),Emily & Jess Collab,90 min @ $25.00,On One,
+"Sunday, October 19th, 2025",1:00 PM,K-Pop | MEOVV - 'BURNING UP',Junlin F,90 min @ $30.00,Young Reach,
+"Sunday, October 19th, 2025",1:00 PM,All Levels Popping,Monkey,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, October 19th, 2025",1:00 PM,Foundation Hip Hop,xixi,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Sunday, October 19th, 2025",1:20 PM,Open Session (Ages 13+),On One Studios .,60 min @ $5.00,On One,
+"Sunday, October 19th, 2025",1:30 PM,Int/Adv Hip Hop,Leon,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, October 19th, 2025",3:00 PM,BEG Chinese Choreo |《望风》,Selina 气球,90 min @ $30.00,Young Reach,
+"Sunday, October 19th, 2025",3:30 PM,Intermediate Choreo,Larry Li & Raymond Chan,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, October 19th, 2025",5:00 PM,BEG JazzFunk Choreo | 'SOS',Junlin F,90 min @ $30.00,Young Reach,
+"Sunday, October 19th, 2025",5:30 PM,Beginner Jazz Funk,Jackson Tran,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, October 19th, 2025",6:30 PM,Intermediate K-pop,Miles,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
+"Sunday, October 19th, 2025",7:45 PM,All Levels Choreo,Larry Li,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, October 19th, 2025",8:30 PM,Beginner House,Rama Hall,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Monday, October 20th, 2025",6:10 PM,BEG. Choreography (Ages 13+),Alyssa Corpuz,80 min @ $25.00,On One,
+"Monday, October 20th, 2025",6:10 PM,INT. Choreography (Ages 13+),Alee Martinez,80 min @ $25.00,On One,
+"Monday, October 20th, 2025",6:15 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Monday, October 20th, 2025",6:45 PM,House,Flower Boogie,90 min @ $30.00,Young Reach,
+"Monday, October 20th, 2025",7:35 PM,ADV. Choreography (Ages 13+),Tad Racca,80 min @ $25.00,On One,
+"Monday, October 20th, 2025",7:35 PM,BEG/INT Heels (Age 18+),Paulina Huynh Nhu,80 min @ $25.00,On One,
+"Monday, October 20th, 2025",8:30 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Tuesday, October 21st, 2025",6:10 PM,BEG/INT Grooves (Ages 13+),Tad Racca,80 min @ $25.00,On One,
+"Tuesday, October 21st, 2025",6:10 PM,Syndicate Slot (Ages 13+),Titus Lagman,80 min @ $25.00,On One,
+"Tuesday, October 21st, 2025",7:00 PM,Beginner Hip Hop,Nikki,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Tuesday, October 21st, 2025",7:35 PM,ADV. Choreography (Ages 13+),Marky Dimaano,80 min @ $25.00,On One,
+"Tuesday, October 21st, 2025",8:30 PM,基础爵士编舞,Joanne 企鹅,90 min @ $30.00,Young Reach,
+"Tuesday, October 21st, 2025",8:30 PM,Beginner High Heels,Candice,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Tuesday, October 21st, 2025",8:30 PM,Beginner Breaking,Tree & Charlie,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Wednesday, October 22nd, 2025",10:30 AM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Wednesday, October 22nd, 2025",6:10 PM,INT. Choreography (Ages 13+),Lai-Ling Bisset,80 min @ $25.00,On One,
+"Wednesday, October 22nd, 2025",6:45 PM,INT/ADV Choreo,Makayla Mountain,90 min @ $30.00,Young Reach,
+"Wednesday, October 22nd, 2025",6:45 PM,Int/Adv Choreo,Nate S,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Wednesday, October 22nd, 2025",7:35 PM,GROOV3: Hip Hop Workout (Ages 13+),Rhoville Isaac,60 min @ $25.00,On One,
+"Wednesday, October 22nd, 2025",8:30 PM,Soul Dance ⚠️Sunnyvale Studio⚠️,Flower Boogie,90 min @ $30.00,Young Reach,
+"Wednesday, October 22nd, 2025",8:30 PM,Beginner Jazz Funk,Yi,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
+"Wednesday, October 22nd, 2025",8:30 PM,Beginner Jazz Funk,Yi,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
+"Wednesday, October 22nd, 2025",8:30 PM,Beginner Plus K-pop,Miles,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Wednesday, October 22nd, 2025",8:40 PM,ADV. Choreography (Ages 13+),Nate Souryasack,80 min @ $25.00,On One,
+"Thursday, October 23rd, 2025",7:00 PM,Beginner Breaking,Tree & Charlie,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Thursday, October 23rd, 2025",7:30 PM,Beginner Jazz Funk,Lai-Ling,1 hr 30 mins,EDS,"27 37th Ave, San Mateo"
+"Thursday, October 23rd, 2025",8:30 PM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Thursday, October 23rd, 2025",8:30 PM,Foundation Hip Hop,Leon,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Friday, October 24th, 2025",6:45 PM,All Levels Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Friday, October 24th, 2025",6:45 PM,Beginner Choreo,Raymond Chan,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Friday, October 24th, 2025",7:00 PM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Friday, October 24th, 2025",8:30 PM,Beginner Plus High Heels,Jasmine,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
+"Saturday, October 25th, 2025",5:30 PM,Intermediate Choreo,Sam,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Saturday, October 25th, 2025",5:30 PM,Beginner Plus Latin,Maggie,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Saturday, October 25th, 2025",7:45 PM,Beginner Plus K-pop,Michael Wu,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, October 26th, 2025",1:00 PM,All Levels Popping,Monkey,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, October 26th, 2025",3:30 PM,Intermediate Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, October 26th, 2025",5:30 PM,Int/Adv Choreo,Devin Regan,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Monday, October 27th, 2025",6:15 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Monday, October 27th, 2025",8:30 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Wednesday, October 29th, 2025",8:30 PM,Beginner Jazz Funk,Yi,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
+"Thursday, October 30th, 2025",7:30 PM,All Levels K-pop,Alice Park,1 hr 30 mins,EDS,"27 37th Ave, San Mateo"
+"Friday, November 14th, 2025",6:45 PM,All Levels Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Saturday, November 15th, 2025",7:30 PM,Beginner Plus Choreo,Dylan Lê,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
