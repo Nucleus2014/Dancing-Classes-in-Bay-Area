@@ -1,14 +1,4 @@
 date,time,type,instructor,period_price,studio,location
-"Saturday, October 18th, 2025",11:30 AM,HOUSE (ages 13+),Lauren B,80 min @ $25.00,On One,
-"Saturday, October 18th, 2025",12:55 PM,BEG. Choreography (Ages 13+),Mikey Gutierrez,80 min @ $25.00,On One,
-"Saturday, October 18th, 2025",1:00 PM,"BEG K-Pop | KAI, SEULGI, JENO, KARINA - 'Hot & Cold'",Christine L,90 min @ $30.00,Young Reach,
-"Saturday, October 18th, 2025",1:00 PM,Beginner Chinese Fusion,SaSa,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
-"Saturday, October 18th, 2025",3:00 PM,K-Pop | Jung Kook - 'Standing Next to You',Ivy J,90 min @ $30.00,Young Reach,
-"Saturday, October 18th, 2025",3:30 PM,All Levels Choreo,JJ,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Saturday, October 18th, 2025",5:00 PM,BEG JazzFunk Choreo | 'SOS',Junlin F,90 min @ $30.00,Young Reach,
-"Saturday, October 18th, 2025",5:30 PM,All Levels Choreo,Gooseul,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Saturday, October 18th, 2025",5:30 PM,Beginner Plus Latin,Maggie,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
-"Saturday, October 18th, 2025",7:45 PM,Beginner Plus K-pop,Michael Wu,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
 "Sunday, October 19th, 2025",11:00 AM,BEG Chinese Choreo |《伯虎说》,Xinrong H,90 min @ $30.00,Young Reach,
 "Sunday, October 19th, 2025",11:30 AM,BEG. Choreography (Ages 13+),Max Louangrath,80 min @ $25.00,On One,
 "Sunday, October 19th, 2025",12:00 PM,CAMPBELLOCK (Ages 13+),Kevin Saicheur,80 min @ $25.00,On One,
@@ -25,12 +15,14 @@ date,time,type,instructor,period_price,studio,location
 "Sunday, October 19th, 2025",6:30 PM,Intermediate K-pop,Miles,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
 "Sunday, October 19th, 2025",7:45 PM,All Levels Choreo,Larry Li,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
 "Sunday, October 19th, 2025",8:30 PM,Beginner House,Rama Hall,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Monday, October 20th, 2025",10:00 AM,Beginner Jazz Funk,Jennica,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
 "Monday, October 20th, 2025",6:10 PM,BEG. Choreography (Ages 13+),Alyssa Corpuz,80 min @ $25.00,On One,
 "Monday, October 20th, 2025",6:10 PM,INT. Choreography (Ages 13+),Alee Martinez,80 min @ $25.00,On One,
 "Monday, October 20th, 2025",6:15 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Monday, October 20th, 2025",6:45 PM,House,Flower Boogie,90 min @ $30.00,Young Reach,
 "Monday, October 20th, 2025",7:35 PM,ADV. Choreography (Ages 13+),Tad Racca,80 min @ $25.00,On One,
 "Monday, October 20th, 2025",7:35 PM,BEG/INT Heels (Age 18+),Paulina Huynh Nhu,80 min @ $25.00,On One,
+"Monday, October 20th, 2025",8:30 PM,BEG Chinese Choreo |《慢慢爱》✅️ 小折扇 (Small folding fan) 🪭,Jade Y,90 min @ $30.00,Young Reach,
 "Monday, October 20th, 2025",8:30 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Monday, October 20th, 2025",9:00 PM,Community Class (Ages 13+),Jesse Julian,90 min @ $25.00,On One,
 "Tuesday, October 21st, 2025",6:10 PM,BEG/INT Grooves (Ages 13+),Tad Racca,80 min @ $25.00,On One,
@@ -60,6 +52,8 @@ date,time,type,instructor,period_price,studio,location
 "Thursday, October 23rd, 2025",8:30 PM,Waacking,Flower Boogie,90 min @ $30.00,Young Reach,
 "Thursday, October 23rd, 2025",8:30 PM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Thursday, October 23rd, 2025",8:30 PM,Foundation Hip Hop,Leon,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Friday, October 24th, 2025",10:00 AM,Beginner Jazz Funk,Jennica,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Friday, October 24th, 2025",10:30 AM,Beginner Plus Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Friday, October 24th, 2025",6:10 PM,INT. Choreography (Ages 13+),Kailani Ponti,80 min @ $25.00,On One,
 "Friday, October 24th, 2025",6:45 PM,All Levels Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Friday, October 24th, 2025",6:45 PM,Beginner Choreo,Raymond Chan,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
@@ -69,6 +63,9 @@ date,time,type,instructor,period_price,studio,location
 "Friday, October 24th, 2025",8:30 PM,Pop-Up INT/ADV Choreo,Michael Burt,90 min @ $30.00,Young Reach,
 "Friday, October 24th, 2025",8:30 PM,Beginner Plus High Heels,Jasmine,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
 "Friday, October 24th, 2025",9:00 PM,Community Class (Ages 13+),Vishnu Nambiar,90 min @ $25.00,On One,
+"Saturday, October 25th, 2025",11:30 AM,HOUSE (ages 13+),Josh Reyes,80 min @ $25.00,On One,
+"Saturday, October 25th, 2025",12:55 PM,BEG. Choreography (Ages 13+),Anthony Daste,80 min @ $25.00,On One,
+"Saturday, October 25th, 2025",3:00 PM,BEG Hip-Hop,Swilor L,90 min @ $30.00,Young Reach,
 "Saturday, October 25th, 2025",5:30 PM,Intermediate Choreo,Sam,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Saturday, October 25th, 2025",5:30 PM,Beginner Plus Latin,Maggie,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Saturday, October 25th, 2025",7:45 PM,Beginner Plus K-pop,Michael Wu,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
