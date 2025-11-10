@@ -1,7 +1,4 @@
 date,time,type,instructor,period_price,studio,location
-"Sunday, November 9th, 2025",11:30AMPS,BEG. Choreography (Ages 13+),Max Louangrath,80 min @ $25.00,On One,
-"Sunday, November 9th, 2025",12:00PMPS,CAMPBELLOCK (Ages 13+),Kevin Saicheur,80 min @ $25.00,On One,
-"Sunday, November 9th, 2025",1:20PMPS,Open Session (Ages 13+),On One Studios .,60 min @ $5.00,On One,
 "Monday, November 10th, 2025",6:10PMPS,BEG. Choreography (Ages 13+),Bea Agustin,80 min @ $25.00,On One,
 "Monday, November 10th, 2025",6:10PMPS,INT. Choreography (Ages 13+),Kate Dimalanta,80 min @ $25.00,On One,
 "Monday, November 10th, 2025",7:35PMPS,ADV. Choreography (Ages 13+),Eddie Mina,80 min @ $25.00,On One,
@@ -21,14 +18,9 @@ date,time,type,instructor,period_price,studio,location
 "Friday, November 14th, 2025",9:00PMPS,Community Class (Ages 13+),Peter Tacan,90 min @ $25.00,On One,
 "Saturday, November 15th, 2025",11:30AMPS,HOUSE (ages 13+),Lauren B,80 min @ $25.00,On One,
 "Saturday, November 15th, 2025",12:55PMPS,BEG. Choreography (Ages 13+),Mikey Gutierrez,80 min @ $25.00,On One,
-"Sunday, November 9th, 2025",11:00AMPS,BEG Retro Jazz Choreo 基础复古爵士 |《漫步香港1999》,Katrina Li,90 min @ $30.00,Young Reach,
-"Sunday, November 9th, 2025",1:00PMPS,K-Pop | Hearts2Hearts - 'FOCUS',Junlin F,90 min @ $30.00,Young Reach,
-"Sunday, November 9th, 2025",3:00PMPS,Youth | Starter Hip-Hop (Age 5-7),Stella S,60 min @ $40.00,Young Reach,
-"Sunday, November 9th, 2025",3:00PMPS,BEG Chinese Choreo |《风月》,Selina 气球,90 min @ $30.00,Young Reach,
-"Sunday, November 9th, 2025",3:00PMPS,Starter JazzFunk (Foundations),Jacky Y,90 min @ $30.00,Young Reach,
-"Sunday, November 9th, 2025",5:00PMPS,BEG JazzFunk Choreo | 'Boyfriend',Junlin F,90 min @ $30.00,Young Reach,
-"Sunday, November 9th, 2025",6:45PMPS,K-Pop | BOYNEXTDOOR - 'Hollywood Action',Ivy J,90 min @ $30.00,Young Reach,
-"Sunday, November 9th, 2025",8:30PMPS,Starter Hip-Hop,Jacky Y,90 min @ $30.00,Young Reach,
+"Sunday, November 16th, 2025",11:30AMPS,BEG. Choreography (Ages 13+),Max Louangrath,80 min @ $25.00,On One,
+"Sunday, November 16th, 2025",12:00PMPS,CAMPBELLOCK (Ages 13+),Kevin Saicheur,80 min @ $25.00,On One,
+"Sunday, November 16th, 2025",1:20PMPS,Open Session (Ages 13+),On One Studios .,60 min @ $5.00,On One,
 "Monday, November 10th, 2025",6:45PMPS,House,Flower Boogie,90 min @ $30.00,Young Reach,
 "Monday, November 10th, 2025",8:30PMPS,BEG/INT Chinese Choreo | 《樱花不落》Pt. 1,Jade Y,90 min @ $30.00,Young Reach,
 "Tuesday, November 11th, 2025",6:45PMPS,Starter JazzFunk (Foundations),Junlin F,90 min @ $30.00,Young Reach,
@@ -38,13 +30,7 @@ date,time,type,instructor,period_price,studio,location
 "Thursday, November 13th, 2025",6:45PMPS,BEG/INT Choreo,Larry Li,90 min @ $30.00,Young Reach,
 "Saturday, November 15th, 2025",3:00PMPS,BEG Hip-Hop,Swilor L,90 min @ $30.00,Young Reach,
 "Saturday, November 15th, 2025",4:30PMPS,Youth | Beginner Hip-Hop (Age 7-13),Jacky Y,60 min @ $40.00,Young Reach,
-"Sunday, November 9th, 2025",1:00 PM,Foundation Hip Hop,xixi,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
-"Sunday, November 9th, 2025",1:30 PM,All Levels Popping,Monkey,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
-"Sunday, November 9th, 2025",1:30 PM,Int/Adv Hip Hop,Leon,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Sunday, November 9th, 2025",3:30 PM,Int/Adv Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Sunday, November 9th, 2025",5:30 PM,Beginner Plus Jazz Funk,Jackson Tran,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Sunday, November 9th, 2025",6:30 PM,Beginner K-pop,Ray Ton,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
-"Sunday, November 9th, 2025",8:30 PM,Beginner House,Jadu,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Sunday, November 16th, 2025",3:00PMPS,Youth | Starter Hip-Hop (Age 5-7),Stella S,60 min @ $40.00,Young Reach,
 "Monday, November 10th, 2025",10:30 AM,Int/Adv Hip Hop,Leon,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Monday, November 10th, 2025",6:15 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Monday, November 10th, 2025",6:30 PM,Foundation K-pop,Laura,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
@@ -62,12 +48,13 @@ date,time,type,instructor,period_price,studio,location
 "Thursday, November 13th, 2025",8:30 PM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Thursday, November 13th, 2025",8:30 PM,Foundation Hip Hop,Leon,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Friday, November 14th, 2025",10:30 AM,Beginner Plus Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Friday, November 14th, 2025",6:45 PM,All Levels Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Friday, November 14th, 2025",6:45 PM,Beginner Choreo,Raymond Chan,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Friday, November 14th, 2025",6:45 PM,Int/Adv Jazz Funk,Andrew Liu,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Friday, November 14th, 2025",7:00 PM,Beginner Hip Hop,Nikki,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Friday, November 14th, 2025",8:30 PM,Beginner High Heels,Candice,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
 "Friday, November 14th, 2025",8:30 PM,Int/Adv Hip Hop,Leon,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Friday, November 14th, 2025",9:00 PM,Int/Adv Jazz Funk,Andrew Liu,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Saturday, November 15th, 2025",3:15 PM,All Levels Chinese Fusion,GuoGuo,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Saturday, November 15th, 2025",5:30 PM,Int/Adv Jazz Funk,Andrew Liu,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Saturday, November 15th, 2025",5:30 PM,Beginner Plus Latin,Maggie,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Saturday, November 15th, 2025",7:30 PM,All Levels Choreo,Brandon Kang,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Saturday, November 15th, 2025",7:45 PM,Beginner Plus K-pop,Michael Wu,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
