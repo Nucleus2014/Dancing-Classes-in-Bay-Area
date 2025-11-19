@@ -1,15 +1,11 @@
 date,time,type,instructor,period_price,studio,location
-"Tuesday, November 18th, 2025",6:10PMPS,BEG/INT Grooves (Ages 13+),Tad Racca,80 min @ $25.00,On One,
-"Tuesday, November 18th, 2025",6:10PMPS,Syndicate Slot (Ages 13+),Diego Rodriguez,80 min @ $25.00,On One,
-"Tuesday, November 18th, 2025",7:35PMPS,ADV. Choreography (Ages 13+),Marky Dimaano,80 min @ $25.00,On One,
 "Thursday, November 20th, 2025",7:15PMPS,INT/ADV Choreography (Ages 13+),Vida Bao,80 min @ $25.00,On One,
 "Friday, November 21st, 2025",7:35PMPS,ADV. Choreography (Ages 13+),Leon Li,80 min @ $25.00,On One,
 "Monday, November 24th, 2025",6:10PMPS,INT. Choreography (Ages 13+),Kate Dimalanta,80 min @ $25.00,On One,
 "Monday, November 24th, 2025",7:35PMPS,BEG/INT Heels (Age 18+),Paulina Huynh Nhu,80 min @ $25.00,On One,
-"Tuesday, November 18th, 2025",6:45PMPS,Starter JazzFunk (Foundations),Junlin F,90 min @ $30.00,Young Reach,
-"Tuesday, November 18th, 2025",8:30PMPS,基础爵士编舞 | 'One Day',Joanne 企鹅,90 min @ $30.00,Young Reach,
-"Tuesday, November 18th, 2025",8:30PMPS,Locking ⚠️Sunnyvale Studio,Flower Boogie,90 min @ $30.00,Young Reach,
+"Tuesday, November 25th, 2025",6:10PMPS,BEG/INT Grooves (Ages 13+),Tad Racca,80 min @ $25.00,On One,
 "Wednesday, November 19th, 2025",6:45PMPS,BEG JazzFunk Choreo | 'CHANEL',Junlin F,90 min @ $30.00,Young Reach,
+"Wednesday, November 19th, 2025",6:45PMPS,Locking ⚠️Sunnyvale Studio,Flower Boogie,90 min @ $30.00,Young Reach,
 "Wednesday, November 19th, 2025",8:30PMPS,Soul Dance ⚠️Sunnyvale Studio,Flower Boogie,90 min @ $30.00,Young Reach,
 "Thursday, November 20th, 2025",6:45PMPS,BEG/INT Choreo,Larry Li,90 min @ $30.00,Young Reach,
 "Thursday, November 20th, 2025",8:30PMPS,INT JazzFunk Choreo | 'Let Me',Jacky Y,90 min @ $30.00,Young Reach,
@@ -29,9 +25,8 @@ date,time,type,instructor,period_price,studio,location
 "Sunday, November 23rd, 2025",8:30PMPS,Starter Hip-Hop,Jacky Y,90 min @ $30.00,Young Reach,
 "Monday, November 24th, 2025",6:45PMPS,BEG JazzFunk Choreo | 'You’ll Find a Way',Junlin F,90 min @ $30.00,Young Reach,
 "Monday, November 24th, 2025",8:30PMPS,BEG Lyrical Choreo | 基础当代抒情《值得》,Xinrong H,90 min @ $30.00,Young Reach,
-"Tuesday, November 18th, 2025",7:30 PM,Beginner Hip Hop,Nikki,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
-"Tuesday, November 18th, 2025",8:30 PM,Beginner Breaking,Tree & Charlie,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Tuesday, November 18th, 2025",8:30 PM,Beginner High Heels,Candice,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
+"Tuesday, November 25th, 2025",6:45PMPS,Starter JazzFunk (Foundations),Junlin F,90 min @ $30.00,Young Reach,
+"Tuesday, November 25th, 2025",8:30PMPS,Pop-Up INT/ADV Choreo,Matthew Li,90 min @ $30.00,Young Reach,
 "Wednesday, November 19th, 2025",10:30 AM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Wednesday, November 19th, 2025",6:45 PM,Int/Adv Choreo,Nate S,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Wednesday, November 19th, 2025",8:30 PM,Beginner Plus K-pop,Miles,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
@@ -47,6 +42,7 @@ date,time,type,instructor,period_price,studio,location
 "Friday, November 21st, 2025",7:00 PM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Friday, November 21st, 2025",8:30 PM,All Levels Choreo,Brandon Kang,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
 "Friday, November 21st, 2025",8:30 PM,All Levels Choreo,Malia Gomez,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Saturday, November 22nd, 2025",10:30 AM,Beginner Breaking,Tree & Charlie,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
 "Saturday, November 22nd, 2025",3:15 PM,Intermediate Chinese Fusion,Mavis,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
 "Saturday, November 22nd, 2025",5:30 PM,Beginner Plus Latin,Maggie,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Saturday, November 22nd, 2025",5:30 PM,Int/Adv Hip Hop,Leon,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
