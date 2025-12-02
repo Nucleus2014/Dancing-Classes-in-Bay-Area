@@ -1,9 +1,4 @@
 date,time,type,instructor,period_price,studio,location
-"Monday, December 1st, 2025",6:10PMPS,BEG. Choreography (Ages 13+),Alyssa Corpuz,80 min @ $18.75,On One,
-"Monday, December 1st, 2025",6:10PMPS,INT. Choreography (Ages 13+),Alee Martinez,80 min @ $18.75,On One,
-"Monday, December 1st, 2025",7:35PMPS,ADV. Choreography (Ages 13+),Tad Racca,80 min @ $18.75,On One,
-"Monday, December 1st, 2025",7:35PMPS,BEG/INT Heels (Age 18+),Paulina Huynh Nhu,80 min @ $18.75,On One,
-"Monday, December 1st, 2025",9:00PMPS,Community Class (Ages 13+),Pavel Jordan,90 min @ $18.75,On One,
 "Tuesday, December 2nd, 2025",6:10PMPS,BEG/INT Grooves (Ages 13+),Tad Racca,80 min @ $18.75,On One,
 "Tuesday, December 2nd, 2025",6:10PMPS,Syndicate Slot (Ages 13+),Titus Lagman,80 min @ $18.75,On One,
 "Tuesday, December 2nd, 2025",7:35PMPS,ADV. Choreography (Ages 13+),Marky Dimaano,80 min @ $18.75,On One,
@@ -20,39 +15,52 @@ date,time,type,instructor,period_price,studio,location
 "Saturday, December 6th, 2025",12:55PMPS,BEG. Choreography (Ages 13+),Anthony Daste,80 min @ $18.75,On One,
 "Sunday, December 7th, 2025",11:30AMPS,YOGA (ages 13+),Stephanie Vuong,80 min @ $18.75,On One,
 "Sunday, December 7th, 2025",1:00PMPS,Community Class (Ages 13+),Ashley Servin,90 min @ $18.75,On One,
-"Monday, December 1st, 2025",6:45PMPS,House,Flower Boogie,90 min @ $30.00,Young Reach,
+"Monday, December 8th, 2025",6:10PMPS,BEG. Choreography (Ages 13+),Alyssa Corpuz,80 min @ $18.75,On One,
+"Monday, December 8th, 2025",6:10PMPS,INT. Choreography (Ages 13+),Kate Dimalanta,80 min @ $18.75,On One,
+"Monday, December 8th, 2025",7:35PMPS,ADV. Choreography (Ages 13+),Eddie Mina,80 min @ $18.75,On One,
+"Monday, December 8th, 2025",7:35PMPS,BEG/INT Heels (Age 18+),Paulina Huynh Nhu,80 min @ $18.75,On One,
+"Monday, December 8th, 2025",9:00PMPS,Community Class (Ages 13+),Jordan Scates,90 min @ $18.75,On One,
 "Tuesday, December 2nd, 2025",6:45PMPS,Starter JazzFunk (Foundations),Junlin F,90 min @ $30.00,Young Reach,
 "Tuesday, December 2nd, 2025",8:30PMPS,K-Pop | GIRLSET - 'Little Miss',Junlin F,90 min @ $30.00,Young Reach,
 "Wednesday, December 3rd, 2025",6:45PMPS,BEG JazzFunk Choreo | 'Shotty',Junlin F,90 min @ $30.00,Young Reach,
-"Wednesday, December 3rd, 2025",8:30PMPS,Soul Dance ⚠️Sunnyvale Studio,Flower Boogie,90 min @ $30.00,Young Reach,
+"Wednesday, December 3rd, 2025",8:30PMPS,Soul Dance ⚠️ Changed to Cupertino Studio,Flower Boogie,90 min @ $30.00,Young Reach,
+"Wednesday, December 3rd, 2025",8:30PMPS,K-Pop | ITZY - 'TUNNEL VISION',Junlin F,90 min @ $30.00,Young Reach,
 "Thursday, December 4th, 2025",6:45PMPS,BEG/INT Choreo,Larry Li,90 min @ $30.00,Young Reach,
 "Thursday, December 4th, 2025",8:30PMPS,INT JazzFunk Choreo | 'Revolving door',Snow S,90 min @ $30.00,Young Reach,
 "Friday, December 5th, 2025",6:45PMPS,BEG JazzFunk Choreo | 'Afterbody',Junlin F,90 min @ $30.00,Young Reach,
 "Friday, December 5th, 2025",8:30PMPS,BEG Heels | 'One Night',Angela Z,90 min @ $30.00,Young Reach,
+"Saturday, December 6th, 2025",11:00AMPS,BEG Chinese Choreo |《人间不值得》,Xinrong H,90 min @ $30.00,Young Reach,
 "Saturday, December 6th, 2025",1:00PMPS,Starter JazzFunk (Choreo),Junlin F,90 min @ $30.00,Young Reach,
 "Saturday, December 6th, 2025",3:00PMPS,基础Hip-Hop,Swilor L,90 min @ $30.00,Young Reach,
+"Saturday, December 6th, 2025",5:00PMPS,BEG K-Pop | BABYMONSTER - 'PSYCHO',Junlin F,90 min @ $30.00,Young Reach,
+"Sunday, December 7th, 2025",11:00AMPS,BEG Retro Jazz Choreo 基础复古爵士 |'What a Day',Katrina Li,90 min @ $30.00,Young Reach,
 "Sunday, December 7th, 2025",1:00PMPS,Youth | Locking (Age 7-14),Flower Boogie,90 min @ $60.00,Young Reach,
+"Sunday, December 7th, 2025",1:00PMPS,Pop-Up Hip-Hop 基本功,Soul Young,90 min @ $30.00,Young Reach,
 "Sunday, December 7th, 2025",3:00PMPS,Youth | Starter Hip-Hop (Age 5-7),Stella S,60 min @ $40.00,Young Reach,
+"Sunday, December 7th, 2025",3:00PMPS,Pop-Up All Levels Hip-Hop,Soul Young,90 min @ $30.00,Young Reach,
+"Sunday, December 7th, 2025",3:00PMPS,BEG Chinese Choreo | 《长安啊》,Selina 气球,90 min @ $30.00,Young Reach,
 "Sunday, December 7th, 2025",5:00PMPS,BEG JazzFunk Choreo | 'Afterbody',Junlin F,90 min @ $30.00,Young Reach,
-"Monday, December 1st, 2025",10:30 AM,Int/Adv Hip Hop,Leon,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Monday, December 1st, 2025",6:15 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
-"Monday, December 1st, 2025",8:30 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, December 7th, 2025",6:45PMPS,K-Pop | RIIZE - 'Fame' (Chorus + Dancebreak),Ivy J,90 min @ $30.00,Young Reach,
+"Monday, December 8th, 2025",6:45PMPS,House,Flower Boogie,90 min @ $30.00,Young Reach,
 "Tuesday, December 2nd, 2025",7:30 PM,Beginner Hip Hop,Nikki,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Tuesday, December 2nd, 2025",8:30 PM,Beginner High Heels,Candice,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
-"Tuesday, December 2nd, 2025",8:30 PM,Beginner Breaking,KD,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Tuesday, December 2nd, 2025",8:30 PM,Beginner Breaking,Charlie & Tree & KD,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Wednesday, December 3rd, 2025",10:30 AM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Wednesday, December 3rd, 2025",6:45 PM,Int/Adv Choreo,Nate S,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Wednesday, December 3rd, 2025",8:00 PM,Beginner Jazz Funk,Yi,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
 "Wednesday, December 3rd, 2025",8:30 PM,Beginner Plus K-pop,Miles,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
 "Thursday, December 4th, 2025",8:30 PM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Thursday, December 4th, 2025",8:30 PM,Foundation Hip Hop,Leon,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Friday, December 5th, 2025",10:30 AM,Beginner Plus Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Friday, December 5th, 2025",6:45 PM,Beginner Choreo,Raymond Chan,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Friday, December 5th, 2025",7:00 PM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
-"Friday, December 5th, 2025",8:30 PM,All Levels Choreo,Brandon Kang,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Saturday, December 6th, 2025",10:30 AM,Beginner Breaking,KD,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
+"Friday, December 5th, 2025",8:30 PM,All Levels Choreo,Doris & Brandon Kang,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Saturday, December 6th, 2025",3:15 PM,All Levels Chinese Antique Jazz,Pian Pian,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
 "Saturday, December 6th, 2025",5:30 PM,Beginner Plus Latin,Maggie,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
-"Saturday, December 6th, 2025",7:30 PM,All Levels K-pop,Alice Park,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Saturday, December 6th, 2025",7:45 PM,All Levels K-pop,Alice Park,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Sunday, December 7th, 2025",1:00 PM,Foundation Hip Hop,xixi,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Sunday, December 7th, 2025",1:30 PM,Int/Adv Hip Hop,Leon,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Sunday, December 7th, 2025",2:30 PM,Beginner Breaking,Charlie & Tree & KD,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
 "Sunday, December 7th, 2025",3:30 PM,Int/Adv Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Sunday, December 7th, 2025",5:30 PM,All Levels K-pop,Alice Park,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Sunday, December 7th, 2025",6:30 PM,Beginner K-pop,Ray Ton,2 hrs,EDS,"6076 Stevenson Blvd, Fremont"
@@ -60,7 +68,7 @@ date,time,type,instructor,period_price,studio,location
 "Monday, December 8th, 2025",10:30 AM,Int/Adv Hip Hop,Leon,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Monday, December 8th, 2025",6:15 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Monday, December 8th, 2025",8:30 PM,Foundation Choreo,Nate S,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
-"Tuesday, December 9th, 2025",8:30 PM,Beginner Breaking,KD,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
+"Tuesday, December 9th, 2025",8:30 PM,Beginner Breaking,Charlie & Tree & KD,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Tuesday, December 9th, 2025",8:30 PM,Beginner High Heels,Candice,2 hrs,EDS,"10268 Bandley Dr #107, Cupertino"
 "Wednesday, December 10th, 2025",10:30 AM,Beginner Hip Hop,小乐,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Wednesday, December 10th, 2025",6:45 PM,Int/Adv Choreo,Nate S,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
@@ -78,3 +86,4 @@ date,time,type,instructor,period_price,studio,location
 "Sunday, December 14th, 2025",1:00 PM,Foundation Hip Hop,xixi,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
 "Sunday, December 14th, 2025",3:30 PM,Int/Adv Choreo,Larry Li,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
 "Sunday, December 14th, 2025",8:30 PM,Beginner House,Rama Hall,1 hr 30 mins,EDS,"6076 Stevenson Blvd, Fremont"
+"Monday, December 15th, 2025",10:30 AM,Int/Adv Hip Hop,Leon,1 hr 30 mins,EDS,"10268 Bandley Dr #107, Cupertino"
