@@ -1,8 +1,4 @@
 type,instructor,date,time,period_price,location,studio
-Beginner Hip Hop,小乐,"Wednesday, December 3rd, 2025",10:30 AM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Int/Adv Choreo,Nate S,"Wednesday, December 3rd, 2025",6:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner Jazz Funk,Yi,"Wednesday, December 3rd, 2025",8:00 PM,2 hrs,"6076 Stevenson Blvd, Fremont",EDS
-Beginner Plus K-pop,Miles,"Wednesday, December 3rd, 2025",8:30 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
 Beginner Hip Hop,小乐,"Thursday, December 4th, 2025",8:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
 Foundation Hip Hop,Leon,"Thursday, December 4th, 2025",8:30 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
 Beginner Plus Choreo,Larry Li,"Friday, December 5th, 2025",10:30 AM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
@@ -14,20 +10,22 @@ Beginner Plus Latin,Maggie,"Saturday, December 6th, 2025",5:30 PM,1 hr 30 mins,"
 All Levels K-pop,Alice Park,"Saturday, December 6th, 2025",7:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
 Foundation Hip Hop,xixi,"Sunday, December 7th, 2025",1:00 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
 Int/Adv Hip Hop,Leon,"Sunday, December 7th, 2025",1:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner Breaking,Charlie & Tree & KD,"Sunday, December 7th, 2025",2:30 PM,2 hrs,"6076 Stevenson Blvd, Fremont",EDS
-Int/Adv Choreo,Larry Li,"Sunday, December 7th, 2025",3:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-All Levels K-pop,Alice Park,"Sunday, December 7th, 2025",5:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
+Beginner Breaking,KD,"Sunday, December 7th, 2025",2:30 PM,2 hrs,"6076 Stevenson Blvd, Fremont",EDS
+Beginner Plus Hip Hop,Nikki,"Sunday, December 7th, 2025",5:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
+All Levels Junior KPop,Alice Park,"Sunday, December 7th, 2025",5:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
 Beginner K-pop,Ray Ton,"Sunday, December 7th, 2025",6:30 PM,2 hrs,"6076 Stevenson Blvd, Fremont",EDS
 Beginner House,Rama Hall,"Sunday, December 7th, 2025",8:30 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
 Int/Adv Hip Hop,Leon,"Monday, December 8th, 2025",10:30 AM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
 Foundation Choreo,Nate S,"Monday, December 8th, 2025",6:15 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
 Foundation Choreo,Nate S,"Monday, December 8th, 2025",8:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
-Beginner Breaking,Charlie & Tree & KD,"Tuesday, December 9th, 2025",8:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
+Beginner Hip Hop,Nikki,"Tuesday, December 9th, 2025",7:00 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
+Beginner Breaking,KD,"Tuesday, December 9th, 2025",8:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
 Beginner High Heels,Candice,"Tuesday, December 9th, 2025",8:30 PM,2 hrs,"10268 Bandley Dr #107, Cupertino",EDS
 Beginner Hip Hop,小乐,"Wednesday, December 10th, 2025",10:30 AM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
 Int/Adv Choreo,Nate S,"Wednesday, December 10th, 2025",6:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
 Beginner Jazz Funk,Yi,"Wednesday, December 10th, 2025",8:00 PM,2 hrs,"6076 Stevenson Blvd, Fremont",EDS
 All Levels Hip Hop,Link,"Thursday, December 11th, 2025",7:00 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
+Foundation Hip Hop,Leon,"Thursday, December 11th, 2025",8:30 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
 All Levels Hip Hop,Link,"Thursday, December 11th, 2025",8:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
 Beginner Plus Choreo,Larry Li,"Friday, December 12th, 2025",10:30 AM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
 Beginner Choreo,Raymond Chan,"Friday, December 12th, 2025",6:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
@@ -43,3 +41,4 @@ Beginner House,Rama Hall,"Sunday, December 14th, 2025",8:30 PM,1 hr 30 mins,"607
 Int/Adv Hip Hop,Leon,"Monday, December 15th, 2025",10:30 AM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
 Foundation Choreo,Nate S,"Monday, December 15th, 2025",6:15 PM,1 hr 30 mins,"6076 Stevenson Blvd, Fremont",EDS
 Foundation Choreo,Nate S,"Monday, December 15th, 2025",8:30 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
+Int/Adv Choreo,Nate S,"Wednesday, December 17th, 2025",6:45 PM,1 hr 30 mins,"10268 Bandley Dr #107, Cupertino",EDS
